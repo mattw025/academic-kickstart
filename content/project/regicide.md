@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/regicide.jpg"
-caption = ""
+image = "headers/charles.jpg"
+caption = "*Charles I in Three Positions*, also known as the *Triple portrait of Charles I* by Van Dyck, (1635 or 1636), Royal Collection"
 
 +++
 
