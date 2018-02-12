@@ -13,13 +13,19 @@ image_preview = "charles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+tags = ["regicide"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.renaissancehub.net/single-post/2017/03/10/Researcher-QA-Time-Trauma-in-the-English-Civil-Wars"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/regicide.jpg"
+caption = ""
+
 +++
 
+This research project aims to examine how this traumatic and unexpected event affected contemporaries’ ideas of time, progress, and the future. In what ways did contemporaries conceive of the future, and how did these conceptions change because of the regicide? I seek to detail how contemporaries coped with the regicide, and how traumatic events were incorporated into their changed notions of historical progress and the future. This study documents a change in historical consciousness, in order to understand what contemporaries thought lay ahead for their society and country.
