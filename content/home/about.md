@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "17th-century British history",
+    "Early modern English culture",
+    "Early modern English literature",
+    "English civil wars",
+    "History of science",
+    "Narrative and time",
+    "Theories of time and temporality",
+    "Trauma",
+    "Utopian literature"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in International Relations"
+  institution = "Nanyang Technological University"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Joint BA (Hons)/PhB (Hons) in History"
+  institution = "National University of Singapore and the Australian National University"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Early modern British history, PhD student at the University of Cambridge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Working on the regicide of Charles I, conceptions of time and the future, and their relation to trauma and temporal narratives in the English Civil War. Particular emphasis on astrologers, historians, utopian writers, and Baconian scientists of the Stuart and Interregnum periods.
