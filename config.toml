@@ -229,6 +229,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://orcid.org/0000-0001-7574-5451"
 
+  [[params.social]]
+    icon = "academia"
+    icon_pack = "ai"
+    link = "https://cambridge.academia.edu/MatthiasWong"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
