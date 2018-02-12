@@ -1,5 +1,5 @@
 +++
-title = "Tis’ the Season to be Arguing: Josiah King’s The Examination and Tryal of Old Father Christmas and the Controversy over Christmas in Early Modern England."
+title = "Tis’ the Season to be Arguing: Josiah King’s The Examination and Tryal of Old Father Christmas and the Controversy over Christmas in Early Modern England"
 date = "2014-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -36,15 +36,15 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "#"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
