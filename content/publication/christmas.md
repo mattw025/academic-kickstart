@@ -17,8 +17,8 @@ authors = ["Matthias MY Wong"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PRISM*"
-publication_short = "In *PRISM*"
+publication = "*PRISM*"
+publication_short = "*PRISM*"
 
 # Abstract and optional shortened version.
 abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
