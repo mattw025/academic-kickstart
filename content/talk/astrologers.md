@@ -6,7 +6,7 @@ time_start = 2017-06-01T00:00:00
 time_end = 2017-06-01T01:00:00
 abstract = ""
 abstract_short = ""
-event = "Revolution, Reformation and Re-formation"
+event = "*Revolution, Reformation and Re-formation*, at Institute of Historical Research, University of London"
 event_url = ""
 location = "London, United Kingdom"
 
