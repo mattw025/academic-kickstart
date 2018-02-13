@@ -7,7 +7,7 @@ time_end = 2017-06-01T01:00:00
 abstract = ""
 abstract_short = ""
 event = "*Rethinking Crisis*, at The Oxford Research Centre in the Humanities (TORCH)"
-event_url = ""
+event_url = "http://torch.ox.ac.uk/rethinking-crisis-0"
 location = "Oxford, United Kingdom"
 
 # Is this a selected talk? (true/false)
@@ -33,8 +33,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "almanac.jpg"
+caption = "Prophetic almanac. 1846 edition. John Cross Smith. The Wellcome Collection."
 
 +++
 
