@@ -2,8 +2,8 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "‘If tho doest not beware in time’: crisis and temporality in the almanacs of the English Civil Wars"
-time_start = 2017-06-01T00:00:00
-time_end = 2017-06-01T01:00:00
+time_start = 2017-06-14T00:00:00
+time_end = 2017-06-14T01:00:00
 abstract = ""
 abstract_short = ""
 event = "*Rethinking Crisis*, at The Oxford Research Centre in the Humanities (TORCH)"
