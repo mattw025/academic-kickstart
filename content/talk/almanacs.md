@@ -6,7 +6,7 @@ time_start = 2017-06-14T00:00:00
 time_end = 2017-06-14T01:00:00
 abstract = ""
 abstract_short = ""
-event = "*Rethinking Crisis*, at The Oxford Research Centre in the Humanities (TORCH)"
+event = "*Rethinking Crisis* at The Oxford Research Centre in the Humanities (TORCH)"
 event_url = "http://torch.ox.ac.uk/rethinking-crisis-0"
 location = "Oxford, United Kingdom"
 
