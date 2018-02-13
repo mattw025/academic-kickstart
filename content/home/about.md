@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-Early modern British history, PhD student at the University of Cambridge.
+I am a historian of early modern England, currently undertaking a PhD at the University of Cambridge under the supervision of Dr David Smith. My doctoral project focuses on the regicide of Charles I as a traumatic and disruptive event, and its impact on conceptions of time and the future. I examine the temporal narratives of contemporaries publishing during and after the English Civil War, including astrologers, historians, and newsbooks editors and writers of the later Stuart and Commonwealth periods. 
 
-Working on the regicide of Charles I, conceptions of time and the future, and their relation to trauma and temporal narratives in the English Civil War. Particular emphasis on astrologers, historians, utopian writers, and Baconian scientists of the Stuart and Interregnum periods.
+I completed my MSc at the S. Rajaratnam School of International Studies, a graduate school of Nanyang Technological University, where I focused on aspects of discourse analysis and the role of imagined spaces in the domain of international law and diplomacy. I graduated with my joint degree in History from the National University of Singapore and the Australian National University, where I first started working on early modern England.
