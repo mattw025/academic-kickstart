@@ -7,7 +7,7 @@ time_end = 2017-07-12T01:00:00
 abstract = ""
 abstract_short = ""
 event = "*Imitation and Innovation: Uses of the Past in the Medieval and Early Modern World* at Durham University"
-event_url = "https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.dur.ac.uk%2Fias%2Fevents%2Fevents_listings%2F%3Feventno%3D33977&h=ATNphbq1qcsaoZpa0EnlDjItQkl48yiGZVUaHxUi0tU5kJsxRKFMqDXf0yfwJ4fYTPS9cwu74st07r8N4UfV22x3DK94-j6fk6UGVg45jstQdUSVC5kWYMN4uixYnx57Nl63Wz-vl54"
+event_url = "https://www.dur.ac.uk/ias/events/events_listings/?eventno=33977"
 location = "Durham, United Kingdom"
 
 # Is this a selected talk? (true/false)
