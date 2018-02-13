@@ -59,8 +59,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "christmas.jpg"
+caption = "Journey of the Three Magi to Bethlehem by Leonaert Bramer (oil on panel), c. 1638-40"
 
 +++
 
