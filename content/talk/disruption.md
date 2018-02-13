@@ -34,7 +34,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "execution.jpg"
-caption = "The Execution of Charles I. Engraving by "C.R.V.N.", 1649. 29.2 x 26cm (11 1/2 x 10 1/4"). National Portrait Gallery (RN15997)."
+caption = "The Execution of Charles I. Engraving by 'C.R.V.N.', 1649. 29.2 x 26cm (11 1/2 x 10 1/4). National Portrait Gallery (RN15997)."
 
 +++
 
