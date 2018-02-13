@@ -14,7 +14,6 @@ subtitle = ""
 weight = 60
 
 +++
-
 ## University of Cambridge
 
 * Seminar classes on topics of time and gender for final-year history undergraduates
