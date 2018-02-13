@@ -15,12 +15,12 @@ weight = 60
 
 +++
 
-## 
-
-
-
 ## University of Cambridge
 
-This is an example of using the *custom* widget to create your own homepage section.
+* Seminar classes on topics of time and gender for final-year history undergraduates
+* Seminar classes on research conceptualisation and presentation for postgraduates
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+## National University of Singapore
+
+* Supervisions on writing and critical thinking for first-year undergraduates
+* Lectures and seminar discussions on oral history methodology for undergraduates
