@@ -40,4 +40,4 @@ I am a historian of early modern England, currently undertaking a PhD at the Uni
 
 I completed my MSc at the S. Rajaratnam School of International Studies, a graduate school of Nanyang Technological University, where I focused on aspects of discourse analysis and the role of imagined spaces in the domain of international law and diplomacy. I graduated with my joint degree in History from the National University of Singapore and the Australian National University, where I first started working on early modern England.
 
-Accreditation as Associate Fellow of the Higher Education Academy (AFHEA) forthcoming in September 2018. The HEA benchmarks excellence in higher education teaching against the UK Professional Standards Framework (UKSPF). 
+Accredited as an Associate Fellow of the Higher Education Academy (AFHEA) in September 2018. The HEA benchmarks excellence in higher education teaching against the UK Professional Standards Framework (UKSPF).
