@@ -21,10 +21,15 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/charles.jpg"
-caption = "*Charles I in Three Positions*, also known as the *Triple portrait of Charles I* by Van Dyck, (1635 or 1636), Royal Collection"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 

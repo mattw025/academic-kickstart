@@ -31,10 +31,14 @@ math = true
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "future.jpg"
-caption = "From Hutchinson's story of the nations, containing the Egyptians, the Chinese, India, the Babylonian nation, the Hittites, the Assyrians, the Phoenicians and the Carthaginians, the Phrygians, the Lydians, and other nations of Asia Minor."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 

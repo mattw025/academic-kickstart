@@ -26,10 +26,14 @@ math = true
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-image = "albatross.jpg"
-caption = "'The ice was here, the ice was there, the ice was all around.' from The Rime of the Ancient Mariner. Gustave Dore."
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 
